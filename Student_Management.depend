@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1520144471 source:f:\kawsar's projects\student_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Rollin.h"
+	"Fileprint.h"
+	"Filewrite.h"
+	"Filesort.h"
+	"Sorting.h"
+
+1520144862 f:\kawsar's projects\student_management\rollin.h
+
+1520144810 f:\kawsar's projects\student_management\fileprint.h
+
+1520144810 f:\kawsar's projects\student_management\filewrite.h
+
+1520145083 f:\kawsar's projects\student_management\filesort.h
+
+1520087303 f:\kawsar's projects\student_management\sorting.h
+
+1520144471 source:f:\kawsar's projects\project\student_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Rollin.h"
+	"Fileprint.h"
+	"Filewrite.h"
+	"Filesort.h"
+	"Sorting.h"
+
+1520144862 f:\kawsar's projects\project\student_management\rollin.h
+
+1520144810 f:\kawsar's projects\project\student_management\fileprint.h
+
+1520144810 f:\kawsar's projects\project\student_management\filewrite.h
+
+1520145083 f:\kawsar's projects\project\student_management\filesort.h
+
+1520087303 f:\kawsar's projects\project\student_management\sorting.h
+
+1520144471 source:g:\kawsar's projects\project\student_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Rollin.h"
+	"Fileprint.h"
+	"Filewrite.h"
+	"Filesort.h"
+	"Sorting.h"
+
+1520144862 g:\kawsar's projects\project\student_management\rollin.h
+
+1520144810 g:\kawsar's projects\project\student_management\fileprint.h
+
+1520144810 g:\kawsar's projects\project\student_management\filewrite.h
+
+1520145083 g:\kawsar's projects\project\student_management\filesort.h
+
+1520087303 g:\kawsar's projects\project\student_management\sorting.h
+
